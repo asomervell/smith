@@ -1,6 +1,6 @@
 {
   "name": "smith-markdown-reader",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "description": "Chrome extension that prefers markdown responses for reader mode.",
   "scripts": {
