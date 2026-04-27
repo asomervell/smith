@@ -21,6 +21,7 @@ Lightweight Chrome extension that requests pages with `Accept: text/markdown` an
 - `npm run lint`
 - `npm test`
 - `npm run test:e2e` (requires Playwright browser install)
+- `npm run perf:measure -- --url https://your-site.example --runs 5`
 
 ## Packaging
 

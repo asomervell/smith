@@ -8,7 +8,8 @@
     "test": "npm run test:unit",
     "test:unit": "vitest run",
     "test:e2e": "playwright test",
-    "build:zip": "node ./scripts/build-zip.js"
+    "build:zip": "node ./scripts/build-zip.js",
+    "perf:measure": "node ./scripts/measure-perf.js"
   },
   "devDependencies": {
     "@playwright/test": "^1.54.1",
